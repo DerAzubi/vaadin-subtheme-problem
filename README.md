@@ -48,6 +48,9 @@ There are 3 Buttons in the HelloWorldView (Route "" or "hello). Each button
 should have the color of the label. In this case the first button should be red,
 but since the theme is not loaded it has the default color.
 
+If you remove the NpmPackage in the Application.java and compile again, it works as expected.
+(you might need to clear the browser cache)
+
 # Versions
 
 Vaadin / Flow version: 24.2.2
