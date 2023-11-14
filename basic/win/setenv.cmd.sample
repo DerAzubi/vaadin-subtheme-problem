@@ -1,0 +1,7 @@
+@ECHO OFF
+REM #####################################################################
+REM # Allgmeine Infos
+REM #####################################################################
+REM Java Version bis in den Hauptordner. Progra~1 um Leerzeichen zu vermeiden. Beispiel: C:\Progra~1\Java\jdk17.0.2_8\
+SET JAVA_HOME=C:\Progra~1\Java\jdk21.0.0_35
+SET JAR_NAME=basic-1.0.0-SNAPSHOT-exec.jar
